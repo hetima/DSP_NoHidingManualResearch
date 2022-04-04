@@ -1,0 +1,7 @@
+{
+    "name": "NoHidingManualResearch",
+    "description": "Turning off \"Use Inventory Items\" of manual research will no longer hide the panel.",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/hetima/DSP_NoHidingManualResearch"
+}
